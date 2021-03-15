@@ -1,1 +1,1 @@
-# PHSX815_proj2
+Run the code in the terminal for it to work properly. It simulates dice cubes that have a fair weight to each side and a dice cube that has a random weight to each side, and you can adjust the upper and lower bounds for the possible weight.
